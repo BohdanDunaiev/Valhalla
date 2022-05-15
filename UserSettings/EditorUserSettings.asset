@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 224247031146467c0202092f2f135e131d582b2929262323620d183eedae2136ebf32f
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 2242470311464676081d0436192d4b5030051d2f6c0328392a21097cd1e33136e7f479baf53e7f0c3c10fc330a7e2230fc1e1b04fa070f195f1bf30705e6
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 2242470311464676081d0436192d4b5030051d2f6c0328392a21097cd1e33136e7f479c6f52e37337931ec390a3b4f2afc031d12
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 2242470311464676040005623c2658191919580c2327323d2c275d03c0d27410d2a706e6eb233e2e2d4ddc3f0130042cbd2b0507c305031f0240e80018eb09
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 22424703114646680e0b0227036c73150012147a7d66333e243d04
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 22424703114646680e0b0227036c73150012147a7d1732222c201336e6df353fe7e922a7f234362820
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 22424703114646680e0b0227036c73150012147a7d1727372827097df7ee3d2cfb
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 2242470311464676081d0436192d4b5030051d2f6c0a27222f280f3ae3ee7b0be1e238ecf4750c343615ec3d173b4f2afc031d12
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 224247031146467e0c141501112e5a0217582b2929262323620d183eedae2136ebf32f
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 2242470311464676081d0436192d4b5030051d2f6c0a27222f280f3ae3ee7b0be1e238ecf4756c2e3d42df39162d0e31b2290605e21905071d0bef4004f1190708
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
